@@ -5,7 +5,7 @@ I kan finde alt pensum som hænger sammen med de skabeloner som er på siden her
 # Hovedforløb
 ### [Projekt - H1 - Markedsplads](https://github.com/MAGS-Template/H1-Projekt) | [Pensum](https://mercantec.notion.site/Projekt-H1-Markedsplads-3eafa5e658f44a21a7edea55d419c3e8?pvs=4) | [Eksempler til H1](https://github.com/MAGS-Template/H1-Eksempler) | [Deltag i debatten omkring H1 forløbet](https://github.com/orgs/MAGS-Template/discussions/1)
 
-### [Projekt - H2 - Booking side](https://github.com/MAGS-Template/H2-Projekt) | [Pensum](https://mercantec.notion.site/Projekt-H2-Booking-side-33e086a54fd84630b2c63bd67a5066d2?pvs=4) | [Eksempler til H2](https://github.com/MAGS-Template/H2-Eksempler) | [Deltag i debatten omkring H2 forløbet](https://github.com/orgs/MAGS-Template/discussions/2)
+### [Projekt - H2 - Booking side](https://github.com/MAGS-Template/H2-Projekt)  | [Pensum](https://mercantec.notion.site/Projekt-H2-Booking-side-33e086a54fd84630b2c63bd67a5066d2?pvs=4) | [Eksempler til H2](https://github.com/MAGS-Template/H2-Eksempler) | [Deltag i debatten omkring H2 forløbet](https://github.com/orgs/MAGS-Template/discussions/2)
 
 ### Projekt - H3 - IoT og Serverside : TBA | [Pensum](https://mercantec.notion.site/Projekt-H3-IOT-og-Serverside-93909d550b7a454987dd26a0596eaa6a?pvs=4)
 ### Projekt - H4 - App Udvikling : TBA  | [Pensum](https://mercantec.notion.site/Projekt-H4-App-Udvikling-e8f21f10b0ae4497b815105aec53fd45?pvs=4)
