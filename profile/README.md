@@ -17,3 +17,5 @@ I kan finde alt pensum som hænger sammen med de skabeloner som er på siden her
 ### [Machine Learning](https://github.com/MAGS-Template/MachineLearning) | [Pensum](https://mercantec.notion.site/Machine-Learning-e89a2baf0d414172b13d07465366482e?pvs=4) | [Deltag i debatten omkring ML valgfaget](https://github.com/orgs/MAGS-Template/discussions/9)
 
 # Guides om diverse emner
+
+### Entity Framework Core API | [Pensum](https://mercantec.notion.site/Entity-Framework-75287e0b054f4499a30360bc3f43fda1?pvs=4)
