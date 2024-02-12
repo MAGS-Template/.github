@@ -16,6 +16,8 @@ I kan finde alt pensum som hænger sammen med de skabeloner som er på siden her
 
 ### [Machine Learning](https://github.com/MAGS-Template/MachineLearning) | [Pensum](https://mercantec.notion.site/Machine-Learning-e89a2baf0d414172b13d07465366482e?pvs=4) | [Deltag i debatten omkring ML valgfaget](https://github.com/orgs/MAGS-Template/discussions/9)
 
+### [Cloud Teknologi](https://github.com/MAGS-Template/CloudTeknologi) | [Pensum](https://mercantec.notion.site/Cloudteknologi-IaC-a4c8815743bf43c58e97288f8d869d03?pvs=4) | [Deltag i debatten omkring Cloud valgfaget](https://github.com/orgs/MAGS-Template/discussions/10)
+
 # Guides om diverse emner
 
 ### Blazor | [BlazorEksempler](https://github.com/MAGS-Template/BlazorEksempler/tree/main) | [Pensum](https://mercantec.notion.site/Blazor-db3407ecc592435984c8868c23d7152a?pvs=4) 
