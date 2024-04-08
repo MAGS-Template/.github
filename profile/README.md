@@ -1,4 +1,4 @@
-## Velkommen til templates lavet af MAGS
+# Velkommen til templates lavet af MAGS
 
 I kan finde alt pensum som hænger sammen med de skabeloner som er på siden her - [Notion](https://mercantec.notion.site/Mercantec-MAGS-882a74628348419fa23af9a875215e4c?pvs=4)
 
