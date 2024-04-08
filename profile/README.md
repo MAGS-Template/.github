@@ -22,4 +22,4 @@ I kan finde alt pensum som hænger sammen med de skabeloner som er på siden her
 
 ### Blazor | [BlazorEksempler](https://github.com/MAGS-Template/BlazorEksempler/tree/main) | [Pensum](https://mercantec.notion.site/Blazor-db3407ecc592435984c8868c23d7152a?pvs=4) 
 
-### EFCore | [Entity Framework Core API](https://github.com/MAGS-Template/EFCore-API) | [Pensum](https://mercantec.notion.site/Entity-Framework-75287e0b054f4499a30360bc3f43fda1?pvs=4)
+### EFCore | [Entity Framework Core API](https://github.com/MAGS-Template/H3-API-Example) | [Pensum](https://mercantec.notion.site/Entity-Framework-75287e0b054f4499a30360bc3f43fda1?pvs=4)
